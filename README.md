@@ -1,4 +1,4 @@
-# Variational X-Ray Report Generation
+# Variational Chest X-Ray Report Generation
 
 [[arXiv]](https://arxiv.org/pdf/2107.07314.pdf) [[Springer]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_59)
 
